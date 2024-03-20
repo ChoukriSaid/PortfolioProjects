@@ -1,1 +1,3 @@
-Mini projects in Python, PowerBI, Tableau
+Mini projects using Python, PowerBI, Tableau, Sql and Excel.
+
+
