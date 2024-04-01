@@ -1,3 +1,3 @@
-Mini projects using Python, Sql, PowerBI, Tableau and Excel.
+Projects using Python, Sql, PowerBI, Tableau and Excel - Lvl 1 :)
 
 
