@@ -1,3 +1,3 @@
-Projects using Python, Sql, PowerBI, Tableau and Excel - Lvl 1 :)
+Projets utilisant Python, SQL, Power BI, Tableau et Excel 
 
 
